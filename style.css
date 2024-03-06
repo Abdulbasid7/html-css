@@ -1,3 +1,23 @@
 *{
-    background-color: bisque;
+    background-color: rgb(10, 249, 253);
+    font-size: 30px;
+    font-style: italic;
+
+
+    
+}
+h1{
+    background-color: rgb(11, 150, 236)
+    
+    
+
+}
+h3{
+    background-color: rgb(11, 150, 236)
+    
+    
+}
+footer{
+    background-color: rgb(236, 230, 230);
+    
 }
